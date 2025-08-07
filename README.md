@@ -21,6 +21,6 @@ Created by **Abdik9292** in 2025.
 
 ## 📦 Usage
 
-1. Clone or download the project
+1. Download the Jar file
 2. Download java 17 or higher
    run with java -jar vaultapp.jar /54309812
