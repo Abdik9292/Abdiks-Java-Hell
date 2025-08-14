@@ -75,4 +75,14 @@ While each project has its own purpose, they generally explore one or more of th
 
 - Currently, this repository is primarily personal experiments.  
 - Future contributions may include **enhanced features, optimizations, or visual improvements**.  
-- Issues or pull requests can be submitted for discussion.  
+- Issues or pull requests can be submitted for discussion.
+
+  
+---
+
+## ⚠️ Disclaimer
+
+This software is provided **"as is"**, without any warranties of any kind, express or implied.  
+The author is **not responsible** for any data loss, corruption, hardware damage, security breaches, or other consequences arising from the use or misuse of this software.  
+By using NoiseVault, you accept full responsibility for any actions taken and their results.
+
