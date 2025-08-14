@@ -1,37 +1,51 @@
-# Abdik9292 Personal License (2025)
+# Abdik9292 Universal Personal License (2025)
 
 Copyright (c) 2025 Abdik9292
 
-Permission is hereby granted to any person obtaining a copy of any software in this repository to use it **solely for personal, non-commercial purposes**, under the following conditions:
+Permission is hereby granted to any person obtaining a copy of any software, code, or other materials from this repository to use them **solely for personal, non-commercial purposes**, under the following conditions:
 
 ---
 
 ## Terms and Conditions
 
 1. **Use as-is**  
-   The Software may be used **only as-is**, without any modifications, alterations, or attempts to reverse engineer it.
+   All Software must be used **exactly as provided**, without modification, alteration, decompilation, disassembly, or reverse engineering.
 
 2. **No Redistribution**  
-   Redistribution of the Software, its compiled binaries, or its source code, whether modified or unmodified, is **strictly prohibited**.
+   Redistribution, publication, uploading, or sharing of the Software, its binaries, or its source code — whether modified or unmodified — is **strictly prohibited**.
 
 3. **No Commercial Use**  
-   Commercial use, resale, or incorporation into other software, products, or services is **not allowed** without explicit written permission from the author (Abdik9292).
+   Commercial use, resale, monetization, or integration into other products, services, or software is **not allowed** without explicit written permission from the author (Abdik9292).
 
 4. **No Sharing or Sublicensing**  
-   This license does **not** grant permission to copy, share, sublicense, or otherwise distribute the Software in any form.
+   This license does **not** grant permission to copy, sublicense, rent, lease, or otherwise distribute the Software in any form.
 
 5. **Violation Consequences**  
-   Any violation of these terms will result in immediate termination of the license and legal rights to use the Software.
+   Any breach of these terms will result in immediate termination of all granted rights, with possible legal action.
 
 ---
 
-## Disclaimer
+## Extended Disclaimer
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.  
-The author shall not be held liable for **any data loss, corruption, security breaches, hardware damage, or other damages** arising from the use or misuse of this Software.  
-By using this Software, you accept full responsibility for any actions taken and their results.
+By using any part of this repository, you agree that:
+
+- The author is **not responsible** for any form of damage, loss, or liability — including but not limited to:  
+  - Data loss or corruption  
+  - Hardware failure or damage  
+  - Software conflicts or crashes  
+  - Security breaches or vulnerabilities  
+  - Network disruptions or outages  
+  - Legal consequences arising from improper use  
+  - Financial losses or costs incurred  
+
+- You are solely responsible for ensuring the safe, legal, and appropriate use of the Software.  
+- Some programs in this repository may be **experimental, unstable, or potentially destructive** — use them entirely at your own risk.  
+- The author is **not obligated** to provide updates, support, bug fixes, or maintenance.
 
 ---
+
+By downloading, running, or interacting with any Software from this repository, you acknowledge and accept the terms of this license and disclaimer.
 
 **Author:** Abdik9292  
 **Year:** 2025
