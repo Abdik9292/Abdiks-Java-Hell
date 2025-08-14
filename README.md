@@ -84,5 +84,5 @@ While each project has its own purpose, they generally explore one or more of th
 
 This software is provided **"as is"**, without any warranties of any kind, express or implied.  
 The author is **not responsible** for any data loss, corruption, hardware damage, security breaches, or other consequences arising from the use or misuse of this software.  
-By using NoiseVault, you accept full responsibility for any actions taken and their results.
+By using the apps posted on this repo you accept full responsibility for any actions taken and their results.
 
