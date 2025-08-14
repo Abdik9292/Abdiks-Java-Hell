@@ -26,3 +26,13 @@ Created by **Abdik9292** in 2025.
 3. Run the vault with:  
    ```bash
    java -jar vaultapp.jar /54309812
+-
+    Use drag-and-drop to add files to your secure vault.
+-
+    Manage vault export/import via the in-app menu.
+    
+---
+⚠️ Notes
+    NoiseVault works completely offline; no internet connection is required.
+    The vault is designed for personal, non-commercial use only.
+    Make sure to remember your vault password—lost credentials cannot be recovered.
