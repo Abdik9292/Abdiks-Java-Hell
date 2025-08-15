@@ -73,4 +73,4 @@ java -jar ZuaTool.jar unpack ./b.zua ./hi 1234567890123456 ;
 
 ## 📦 Releases
 
-You can upload your compiled `ZuaTool.jar` in the [Releases](https://github.com/Abdik9292/Abdiks-Java-Hell/releases/tag/Netkillapp) section for distribution.
+You can upload your compiled `ZuaTool.jar` in the [Releases](https://github.com/Abdik9292/Abdiks-Java-Hell/releases/tag/ZuaTool) section for distribution.
